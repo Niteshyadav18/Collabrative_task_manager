@@ -29,7 +29,7 @@ A lightweight task manager web application built using the **MERN Stack** (Mongo
 
 | Layer       | Technology                |
 |-------------|---------------------------|
-| Frontend    | React.js, Axios           |
+| Frontend    | React.js       |
 | Backend     | Node.js, Express.js       |
 | Database    | MongoDB with Mongoose     |
 | Styling     | Tailwind CSS or plain CSS |
